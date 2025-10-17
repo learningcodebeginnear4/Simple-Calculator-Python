@@ -1,2 +1,2 @@
 # Simple-Calculator-Python
-APCSP skills in first marking period
+Making a calculator with functions
